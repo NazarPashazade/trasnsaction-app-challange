@@ -26,9 +26,9 @@ Check README.MD file inside the specific folders(database/mssql-server, database
 
 
 
-### download this globally
+## Download this globally
 
-npm i -g detenv-cli
+run "npm i -g detenv-cli"
 
 
 
