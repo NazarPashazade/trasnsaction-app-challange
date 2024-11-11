@@ -26,6 +26,12 @@ Check README.MD file inside the specific folders(database/mssql-server, database
 
 
 
+### download this globally
+
+npm i -g detenv-cli
+
+
+
 #### Run Backend Locally:
 
 1. run "npm run dev" command inside the backend folder
