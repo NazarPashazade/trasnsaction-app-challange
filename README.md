@@ -1,4 +1,4 @@
-# banking-app
+# Transaction manager
 
 
 ## Tech Stack
